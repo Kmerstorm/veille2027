@@ -1,0 +1,4 @@
+Présidentielle 2027 – application web
+
+Déposez TOUT le contenu de ce dossier (index.html, manifest.webmanifest, sw.js, dossier icons) à la racine d'un dépôt GitHub, puis activez GitHub Pages (Settings > Pages > Deploy from a branch > main / root).
+Pour mettre à jour : remplacez index.html et augmentez le numéro de version dans sw.js (veille2027-v1 -> v2).
